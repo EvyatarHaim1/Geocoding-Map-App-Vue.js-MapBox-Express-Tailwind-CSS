@@ -1,24 +1,9 @@
-# vue_mapbox
+MapBox's Geocoding Map App:
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Frontend : Vue 3
+Server: Node.js & Express.js
+Style: Tailwind CSS,
+Labraries: MapBox, Leaflet.js
+Vuex - State management
+GEO Code API
+Postman - test routes & endpoint's requests
